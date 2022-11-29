@@ -22,6 +22,9 @@ module.exports = {
     },
     {
       "name": "@electron-forge/maker-rpm"
+    },
+    {
+      "name": "@electron-forge/maker-dmg"
     }
   ],
   "plugins": [
